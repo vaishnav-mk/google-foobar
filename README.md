@@ -10,8 +10,8 @@ Problems are distributed across _ levels of difficulty. The number of questions 
     
 # The solutions
 
-* Level 1:
-* * [Solar Doomsday](https://github.com/vaishnav-mk/google-foobar/tree/main/Solutions/Level%201/solar_doomsday)
+### Level 1:
+* [Solar Doomsday](https://github.com/vaishnav-mk/google-foobar/tree/main/Solutions/Level%201/solar_doomsday)
     
 ### Remarks
 * Special thanks to [Aaishika](https://github.com/aaishikasb) for creating a [repo](https://github.com/aaishikasb/Foobar) regarding this, per courtesy of which I found the challenge!
