@@ -15,3 +15,4 @@ Problems are distributed across _ levels of difficulty. The number of questions 
     
 ### Remarks
 * Special thanks to [Aaishika](https://github.com/aaishikasb) for creating a [repo](https://github.com/aaishikasb/Foobar) regarding this, per courtesy of which I found the challenge!
+* * View her video on this [here](https://www.youtube.com/watch?v=zINg12v7cq4)
